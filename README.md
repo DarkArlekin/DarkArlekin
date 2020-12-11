@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning JS...JS... and more JS
 - 💬 Ask me about WEB
 - 😄 Pronouns: nikolaygaginua@gmail.com
-- ⚡ Fun fact: I create awesome code to all, and dont anderstend how it work )
+- ⚡ Fun fact: I create awesome code to all, and don't understand how it work )
