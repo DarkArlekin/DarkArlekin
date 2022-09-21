@@ -1,3 +1,4 @@
+<img src="https://c.tenor.com/DFuRDEABlWUAAAAC/overlord.gif" align="center" />
 ### Hi there 👋
 
 #### My name is Nik and, I am a JS developer
